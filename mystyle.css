@@ -1,0 +1,29 @@
+﻿/* style.css */
+
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #003366;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+}
+
+img {
+    width: 300px;
+    margin-top: 20px;
+}
